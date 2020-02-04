@@ -21,5 +21,6 @@
 >3. 예시
 >   >피보나치 수열 Fn = Fn-1 + Fn-2  
 >   >   >큰문제(n)을 작은 문제(n-1, n-2)의 정답을 더해서 구할수 있다.(optimal substructure)
+>   >   >
 >   >   >n-1은 다시 n-2와 n-3으로 쪼개지기 때문에 n-2크기의 작은문제가 중복된다!(overlapping subproblem)
 
