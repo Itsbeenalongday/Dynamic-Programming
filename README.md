@@ -44,4 +44,8 @@
 >   >
 >   > 메모를 한다고 해서 영어로 Memoization이라고 한다.
 
+## Implementation Method
+>   Top - down   
+>   Bottom - up
+
 
