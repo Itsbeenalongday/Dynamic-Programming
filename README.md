@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-### Introdution
+## Introdution
 
 `큰 문제를 작은 문제로 나눠서 푸는 알고리즘`
 
@@ -9,7 +9,7 @@
 >
 >   >2. 분할 정복 - 문제를 나누면 이전에 나왔던 문제의 크기가 중복될 수 없음
 
-### Condition
+## Condition
 
 `이 문제가 다이나믹 프로그래밍기법으로 해결이 가능한가?`
 
@@ -21,6 +21,10 @@
 >3. 예시
 >   >피보나치 수열 Fn = Fn-1 + Fn-2  
 >   >   >큰문제(n)을 작은 문제(n-1, n-2)의 정답을 더해서 구할수 있다.(optimal substructure)
->   >   >
+>   >
 >   >   >n-1은 다시 n-2와 n-3으로 쪼개지기 때문에 n-2크기의 작은문제가 중복된다!(overlapping subproblem)
+
+## Time complexity
+
+`점화식으로 시간복잡도 구해보기`
 
