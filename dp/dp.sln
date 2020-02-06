@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2225_합분해", "2225_합�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11054_가장 긴 바이토닉 부분 수열", "11054_가장 긴 바이토닉 부분 수열\11054_가장 긴 바이토닉 부분 수열.vcxproj", "{C734B27A-38BD-47D5-9C68-8B1074EE46CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12865_평범한 배낭", "12865_평범한 배낭\12865_평범한 배낭.vcxproj", "{92253EE1-615E-4A29-BC16-1D87BDCB1C08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{C734B27A-38BD-47D5-9C68-8B1074EE46CC}.Release|x64.Build.0 = Release|x64
 		{C734B27A-38BD-47D5-9C68-8B1074EE46CC}.Release|x86.ActiveCfg = Release|Win32
 		{C734B27A-38BD-47D5-9C68-8B1074EE46CC}.Release|x86.Build.0 = Release|Win32
+		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Debug|x64.ActiveCfg = Debug|x64
+		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Debug|x64.Build.0 = Debug|x64
+		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Debug|x86.ActiveCfg = Debug|Win32
+		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Debug|x86.Build.0 = Debug|Win32
+		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Release|x64.ActiveCfg = Release|x64
+		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Release|x64.Build.0 = Release|x64
+		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Release|x86.ActiveCfg = Release|Win32
+		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
