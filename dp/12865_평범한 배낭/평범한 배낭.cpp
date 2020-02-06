@@ -10,8 +10,8 @@ int main() {
 	cout.tie(nullptr);
 	int n, W;
 	cin >> n >> W;
-	vector<int>weight(n + 1); // ¹«°Ô¹è¿­
-	vector<int>profit(n + 1); // °¡°Ý ¹è¿­
+	vector<int>weight(n + 1); // ë¬´ê²Œ ë°°ì—´
+	vector<int>profit(n + 1); //  ê°€ê²© ë°°ì—´
 	vector<vector<int>>dp(n + 1, vector<int>(W + 1));
 
 	for (int i = 1; i <= n; ++i) {
