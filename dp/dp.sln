@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11054_가장 긴 바이토�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12865_평범한 배낭", "12865_평범한 배낭\12865_평범한 배낭.vcxproj", "{92253EE1-615E-4A29-BC16-1D87BDCB1C08}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11051_이항 계수 2", "11051_이항 계수 2\11051_이항 계수 2.vcxproj", "{E0B15C2C-CEF6-4024-91A7-DF17D5175DF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Release|x64.Build.0 = Release|x64
 		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Release|x86.ActiveCfg = Release|Win32
 		{92253EE1-615E-4A29-BC16-1D87BDCB1C08}.Release|x86.Build.0 = Release|Win32
+		{E0B15C2C-CEF6-4024-91A7-DF17D5175DF2}.Debug|x64.ActiveCfg = Debug|x64
+		{E0B15C2C-CEF6-4024-91A7-DF17D5175DF2}.Debug|x64.Build.0 = Debug|x64
+		{E0B15C2C-CEF6-4024-91A7-DF17D5175DF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{E0B15C2C-CEF6-4024-91A7-DF17D5175DF2}.Debug|x86.Build.0 = Debug|Win32
+		{E0B15C2C-CEF6-4024-91A7-DF17D5175DF2}.Release|x64.ActiveCfg = Release|x64
+		{E0B15C2C-CEF6-4024-91A7-DF17D5175DF2}.Release|x64.Build.0 = Release|x64
+		{E0B15C2C-CEF6-4024-91A7-DF17D5175DF2}.Release|x86.ActiveCfg = Release|Win32
+		{E0B15C2C-CEF6-4024-91A7-DF17D5175DF2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
