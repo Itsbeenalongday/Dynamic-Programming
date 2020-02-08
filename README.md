@@ -115,7 +115,9 @@ dp[i][j] => i와 j가 모두 변수임
 
 <pre>
   <code>
-    dp[i] = something i 번째 or dp[i][j] => something i 번째의 j경우 등등
+    dp[i] = something i 번째 
+    
+    dp[i][j] => something i 번째의 j경우 등등
   </code>
 </pre>
    
