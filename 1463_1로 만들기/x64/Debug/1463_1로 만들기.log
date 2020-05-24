@@ -1,0 +1,2 @@
+﻿  1로 만들기.cpp
+C:\Users\유성민\Desktop\git\dp\1463_1로 만들기\1로 만들기.cpp(44): error C4700: 초기화되지 않은 'result' 지역 변수를 사용했습니다.

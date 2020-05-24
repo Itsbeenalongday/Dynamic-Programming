@@ -69,6 +69,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2293_동전 1", "2293_동�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2167_2차원 배열의 합", "2167_2차원 배열의 합\2167_2차원 배열의 합.vcxproj", "{1F748EEA-77E8-4787-9C8C-CE0AC981BEB7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11048_이동하기", "11048_이동하기\11048_이동하기.vcxproj", "{04C08A05-6969-43A5-992E-7826E8622DD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -341,6 +343,14 @@ Global
 		{1F748EEA-77E8-4787-9C8C-CE0AC981BEB7}.Release|x64.Build.0 = Release|x64
 		{1F748EEA-77E8-4787-9C8C-CE0AC981BEB7}.Release|x86.ActiveCfg = Release|Win32
 		{1F748EEA-77E8-4787-9C8C-CE0AC981BEB7}.Release|x86.Build.0 = Release|Win32
+		{04C08A05-6969-43A5-992E-7826E8622DD6}.Debug|x64.ActiveCfg = Debug|x64
+		{04C08A05-6969-43A5-992E-7826E8622DD6}.Debug|x64.Build.0 = Debug|x64
+		{04C08A05-6969-43A5-992E-7826E8622DD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{04C08A05-6969-43A5-992E-7826E8622DD6}.Debug|x86.Build.0 = Debug|Win32
+		{04C08A05-6969-43A5-992E-7826E8622DD6}.Release|x64.ActiveCfg = Release|x64
+		{04C08A05-6969-43A5-992E-7826E8622DD6}.Release|x64.Build.0 = Release|x64
+		{04C08A05-6969-43A5-992E-7826E8622DD6}.Release|x86.ActiveCfg = Release|Win32
+		{04C08A05-6969-43A5-992E-7826E8622DD6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
