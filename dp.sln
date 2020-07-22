@@ -73,6 +73,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11048_이동하기", "11048
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2011_암호코드", "2011_암호코드\2011_암호코드.vcxproj", "{69DE9B0B-8559-4337-9CA8-5A6CDCD70E9F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2565_전깃줄", "2565_전깃줄\2565_전깃줄.vcxproj", "{DF717BCD-3033-4556-B87D-2A095D3AA0AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -361,6 +363,14 @@ Global
 		{69DE9B0B-8559-4337-9CA8-5A6CDCD70E9F}.Release|x64.Build.0 = Release|x64
 		{69DE9B0B-8559-4337-9CA8-5A6CDCD70E9F}.Release|x86.ActiveCfg = Release|Win32
 		{69DE9B0B-8559-4337-9CA8-5A6CDCD70E9F}.Release|x86.Build.0 = Release|Win32
+		{DF717BCD-3033-4556-B87D-2A095D3AA0AD}.Debug|x64.ActiveCfg = Debug|x64
+		{DF717BCD-3033-4556-B87D-2A095D3AA0AD}.Debug|x64.Build.0 = Debug|x64
+		{DF717BCD-3033-4556-B87D-2A095D3AA0AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF717BCD-3033-4556-B87D-2A095D3AA0AD}.Debug|x86.Build.0 = Debug|Win32
+		{DF717BCD-3033-4556-B87D-2A095D3AA0AD}.Release|x64.ActiveCfg = Release|x64
+		{DF717BCD-3033-4556-B87D-2A095D3AA0AD}.Release|x64.Build.0 = Release|x64
+		{DF717BCD-3033-4556-B87D-2A095D3AA0AD}.Release|x86.ActiveCfg = Release|Win32
+		{DF717BCD-3033-4556-B87D-2A095D3AA0AD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
